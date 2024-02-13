@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcommerce"]=self["webpackChunkcommerce"]||[]).push([[156],{8156:function(c,e,n){n.r(e),n.d(e,{default:function(){return f}});var r=n(3396);const t={class:"checkout"},u=(0,r._)("h1",null,"this is cehckout",-1),s=[u];function o(c,e,n,u,o,i){return(0,r.wg)(),(0,r.iD)("div",t,s)}var i={},a=n(89);const h=(0,a.Z)(i,[["render",o]]);var f=h}}]);
+//# sourceMappingURL=156.76b6c05e.js.map
